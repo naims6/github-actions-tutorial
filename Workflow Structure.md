@@ -4,5 +4,5 @@
 
 ## 3. Job name & run on OS
 
-## 4. Job Steps
+## 4. Jobs Steps
 
