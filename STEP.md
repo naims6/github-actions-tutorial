@@ -4,7 +4,7 @@
 
 ## What is GitHub Actions?
 
-## GitHub Actions Folder and          Workflow File Structure
+## GitHub Actions Folder and Workflow File Structure
 
 ## Create Our First CI Pipeline
 
