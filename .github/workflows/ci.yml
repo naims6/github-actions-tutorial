@@ -23,3 +23,6 @@ jobs:
 
       - name: code Test
         run: npm run build
+
+      - name: prettier test
+        run: npm run check-prettier
