@@ -10,7 +10,7 @@ const app = express();
 
 const user: { name: string; age: number } = {
   name: "Naim",
-  age: "21",
+  age: 21,
 };
 
 app.listen(3000, () => {
